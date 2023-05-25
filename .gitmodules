@@ -1,0 +1,21 @@
+[submodule "start/copilot"]
+	path = start/copilot
+	url = git@github.com:github/copilot.vim.git
+[submodule "start/nvim-lspfuzzy"]
+	path = start/nvim-lspfuzzy
+	url = git@github.com:ojroques/nvim-lspfuzzy.git
+[submodule "start/nvim-lspconfig"]
+	path = start/nvim-lspconfig
+	url = git@github.com:neovim/nvim-lspconfig.git
+[submodule "start/fzf-vim"]
+	path = start/fzf-vim
+	url = git@github.com:junegunn/fzf.vim.git
+[submodule "start/vim-commentary"]
+	path = start/vim-commentary
+	url = git@github.com:tpope/vim-commentary.git
+[submodule "start/vim-dirvish"]
+	path = start/vim-dirvish
+	url = git@github.com:justinmk/vim-dirvish.git
+[submodule "start/yui"]
+	path = start/yui
+	url = git@github.com:cideM/yui.git
