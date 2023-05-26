@@ -19,3 +19,9 @@
 [submodule "start/yui"]
 	path = start/yui
 	url = git@github.com:cideM/yui.git
+[submodule "start/start/vim-fugitive"]
+	path = start/start/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule "start/start/vim-rhubarb"]
+	path = start/start/vim-rhubarb
+	url = git@github.com:tpope/vim-rhubarb.git
